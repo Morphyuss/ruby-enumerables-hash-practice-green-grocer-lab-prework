@@ -2,8 +2,7 @@
 
 def consolidate_cart(cart)
   cart = Hash.new(cart)
-  Hash.new { |cart, key| hash[key] = "#{number}"  }
-
+  
 
 end
 
